@@ -10,24 +10,24 @@ Ahmet</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- [https://ahmethasdemir.com.tr](https://ahmethasdemir.com.tr)
+- 💻 Check My Website: [https://ahmethasdemir.com.tr](ahmethasdemir.com.tr)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning CS50x and Google Cloud Data Analysis</a>
+- 🌱 I’m currently learning CS50x and Google Cloud Data Analysis.</a>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ahasdemir)
+- 📝 I regularly write articles on [Medium.](https://medium.com/@ahasdemir)
 
 - 📫 How to reach me **me@ahmethasdemir.com.tr**
 
-- 📄 Know about my experiences <a href="https://ahmethasdemir.com.tr/resume.pdf" target="blank">my resume</a>
+- 📄 Know about my experiences <a href="https://ahmethasdemir.com.tr/resume.pdf" target="blank">my resume.</a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahasdemir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahasdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=ahasdemir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahasdemir&count_private=true&show_icons=true&theme=github_dark" />
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
