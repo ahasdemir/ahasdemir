@@ -14,7 +14,7 @@ Ahmet</a></h1>
 
 - 🌱 I’m currently learning CS50x and Google Cloud Data Analysis</a>
 
-- 📝 I regularly write articles on [https://medium.com/@ahasdemir](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ahasdemir)
 
 - 📫 How to reach me **me@ahmethasdemir.com.tr**
 
@@ -33,6 +33,8 @@ Ahmet</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ahmethsdemir">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://ahmethasdemir.com.tr">
+			<img src="https://img.icons8.com/?size=100&id=t8GnlEGySaKP&format=png&color=000000" ></a>
       </div>
 
 </p>
@@ -46,5 +48,3 @@ Ahmet</a></h1>
 ---
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
