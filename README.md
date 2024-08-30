@@ -22,7 +22,6 @@ Ahmet</a></h1>
 
 - 📄 Know about my experiences <a href="https://ahmethasdemir.com.tr/resume.pdf" target="blank">my resume</a>
 
-![](https://github-readme-stats.vercel.app/api?username=ahasdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahasdemir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahasdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -30,7 +29,6 @@ Ahmet</a></h1>
 ![](https://github-profile-trophy.vercel.app/?username=ahasdemir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=ahasdemir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
