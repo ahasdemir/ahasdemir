@@ -27,7 +27,6 @@ Ahmet</a></h1>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=ahasdemir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahasdemir&count_private=true&show_icons=true&theme=github_dark" />
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
