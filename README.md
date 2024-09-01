@@ -14,7 +14,7 @@ Ahmet</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning CS50x and Google Cloud Data Analysis.</a>
+- 🌱 I’m currently learning CS50x.</a>
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@ahasdemir)
 
