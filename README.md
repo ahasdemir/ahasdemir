@@ -10,7 +10,7 @@ Ahmet</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💻 Check My Website: [https://ahmethasdemir.com.tr](ahmethasdemir.com.tr)
+- 💻 Check My Website: <a href="https://ahmethasdemir.com.tr/" target="blank">ahmethasdemir.com.tr</a>
 
 - 🤝 I’m available for freelancing.
 
