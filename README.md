@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://ahmethasdemir.com.tr" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://hasdemir.me" target="blank">
 Ahmet</a></h1>
 <h3 align="center">A passionate learner from Turkey &#127481;&#127479</h3>
 
@@ -10,7 +10,7 @@ Ahmet</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💻 Check My Website: <a href="https://ahmethasdemir.com.tr/" target="blank">ahmethasdemir.com.tr</a>
+- 💻 Check My Website: <a href="https://hasdemir.me/" target="blank">hasdemir.me</a>
 
 - 🤝 I’m available for freelancing.
 
@@ -18,9 +18,9 @@ Ahmet</a></h1>
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@ahasdemir)
 
-- 📫 How to reach me **me@ahmethasdemir.com.tr**
+- 📫 How to reach me **contact@hasdemir.me**
 
-- 📄 Know about my experiences <a href="https://ahmethasdemir.com.tr/resume.pdf" target="blank">my resume.</a>
+- 📄 Know about my experiences <a href="https://hasdemir.me/resume.pdf" target="blank">my resume.</a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahasdemir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahasdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -40,7 +40,7 @@ Ahmet</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ahmethsdemir">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://ahmethasdemir.com.tr">
+        <a style="margin-left: 10px;" target="_blank" href="https://hasdemir.me">
 			<img src="https://img.icons8.com/?size=50&id=t8GnlEGySaKP&format=png&color=000000" ></a>
       </div>
 
