@@ -12,10 +12,6 @@ Ahmet</a></h1>
 
 - 💻 Check My Website: <a href="https://hasdemir.me/" target="blank">hasdemir.me</a>
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning CS50x.</a>
-
 - 📝 I regularly write articles on [Medium.](https://medium.com/@ahasdemir)
 
 - 📫 How to reach me **contact@hasdemir.me**
